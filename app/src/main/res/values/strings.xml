@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieMate</string>
+    <string name="update_page_header">Update your movie</string>
+    <string name="add_page_header">Add Your Favorite Movie</string>
+</resources>
