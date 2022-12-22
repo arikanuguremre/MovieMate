@@ -1,4 +1,5 @@
 # MovieMate
 An Android app that helps you to add your best movies
 
-![alt text](Movimate1.png )
+
+![alt text](Movimate1.png "Main")
